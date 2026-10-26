@@ -1,0 +1,12 @@
+PROJECT: GitHub Profile Finder
+INTERNSHIP: Internlytic Technologies — Phase 2, Week 3
+STACK: React + Vite + JavaScript + CSS + GitHub REST API
+
+Before submitting:
+1. Run npm install
+2. Run npm run dev and test the app
+3. Create a GitHub repository and push the code
+4. Optional: deploy on Vercel or Netlify
+5. Share the repository link and LinkedIn post link as requested by your internship instructions
+
+Note: I prepared the project files, but publishing to your GitHub account or LinkedIn requires you to sign in and complete those account actions.
